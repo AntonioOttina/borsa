@@ -1,0 +1,6 @@
+bin/
+build/
+dist/
+.gradle/
+actual-[0-9]*.txt
+/consegna.zip
